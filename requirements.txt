@@ -5,5 +5,5 @@ coverage
 docutils
 httplib2
 nose
-oauth2
+git+https://github.com/gchin/python-oauth2.git
 wsgiref
